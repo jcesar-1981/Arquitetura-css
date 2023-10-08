@@ -1,0 +1,8 @@
+.quem-somos__descricao{
+    color: var(--fonte-secundaria-color);
+    text-align: center;
+    font-family:var(--fonte-secundaria);
+    font-size: 1.75rem;
+    font-weight: 300;
+    
+}

@@ -1,0 +1,19 @@
+.sobre__descricao{
+    color: var(--fonte-secundaria-color);
+    text-align: center;
+    font-family: var(--fonte-secundaria);
+    font-size: 1.75rem;  
+    font-weight: 300;
+}
+
+@media screen and (min-width: 0) {
+    .sobre-descricao{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobre-descricao{
+        font-size: 1.75rem;
+    }
+}

@@ -1,0 +1,51 @@
+@import url("./cabecalho.css");
+
+@import url("./menu/menu-item.css");
+@import url("./menu/menu-link.css");
+@import url("./menu/menu-lista.css");
+
+@import url("./banner/banner.css");
+@import url("./banner/banner-imagem.css");
+@import url("./banner/banner-titulo.css");
+
+@import url("./sobre/sobre.css");
+@import url("./sobre/sobre-titulo.css");
+@import url("./sobre/sobre-descricao.css");
+
+@import url("./receitas.css");
+@import url("./receitas/receita.css");
+@import url("./receitas/receita-botao.css");
+@import url("./receitas/receita-conteudo.css");
+@import url("./receitas/receita-descricao.css");
+@import url("./receitas/receita-imagem.css");
+@import url("./receitas/receita-titulo.css");
+
+@import url("./quemSomos/quemSomos.css");
+@import url("./quemSomos/quemSomos-titulo.css");
+@import url("./quemSomos/quemSomos-descricao.css");
+
+@import url("pessoas.css");
+@import url("./pessoas/pessoa.css");
+@import url("./pessoas/pessoa-imagem.css");
+@import url("./pessoas/pessoa-nome.css");
+@import url("./pessoas/pessoa-funcao.css");
+
+@import url("./rodape.css");
+
+@import url("./logo.css");
+
+:root{
+    --branco:#f0f0f0;
+    --cinza-claro:#f1f1f1;
+    --cinza-escuro:#c4c4c4;
+
+    --font-cinza:#808080;
+    --font-cinza-escuro:#333333;
+
+    --fonte-principal:'Pacifico';
+    --fonte-secundaria:'Roboto';
+
+    --fonte-secundaria-color:#8C8888;
+
+}
+
